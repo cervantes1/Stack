@@ -6,6 +6,8 @@ public class App {
         s.push(2);
         s.push(90);
 
+        System.out.println(s.pop());
+        System.out.println("---");
         s.display();
     }
 }
